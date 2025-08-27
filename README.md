@@ -105,7 +105,7 @@ Even a small script like this can save you time and make you feel comfortable wo
 
 Want the full breakdown — explained line by line for beginners?
 
-👉 [Read the full blog here](#) *(replace with your Hashnode/Medium link)*
+👉 [Read the full blog here](https://learning-out-loud-my-devops-journey.hashnode.dev/day-6-shell-scripting-project-github-api-integration)
 
 ---
 
